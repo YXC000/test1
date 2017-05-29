@@ -1,0 +1,1 @@
+你好！welcome to react-native!
